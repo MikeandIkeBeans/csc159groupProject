@@ -59,7 +59,9 @@ Implemented spinlock in phase5.1 tag for extra credit
   - No error found. 
   - keyboard implementation is greater!
   - kernel function is implemented.  
-  - combo key works. 
+  - combo key works.
+ 
+    Disclaimer: all base files and code belongs to Sac state 
   - Git comment is detailed and clean. 
  
 - **Areas for Improvement:**
